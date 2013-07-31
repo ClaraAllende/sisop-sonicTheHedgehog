@@ -1,0 +1,4 @@
+#!/bin/bash
+source "entorno.sh"
+./Koopa/koopa ./Koopa/pruebas/koopa1.txt
+
